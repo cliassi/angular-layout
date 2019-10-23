@@ -1,0 +1,9 @@
+<div style="height: 100%;">
+  <mat-sidenav-container class="full-height">
+    <mat-sidenav mode="over" #sidenav>Sidenav content</mat-sidenav>
+    <mat-sidenav-content>
+      <mat-icon (click)="sidenav.open()" style="padding: 20px 20px;">menu</mat-icon>
+      <router-outlet></router-outlet>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+</div>

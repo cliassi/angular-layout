@@ -1,4 +1,5 @@
-# Public
+# Angular: Consistent UI With LayoutModule 
+# Based on https://medium.com/better-programming/angular-consistent-ui-with-layoutmodule-10516fd57a2f
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
 
